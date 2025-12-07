@@ -4,7 +4,8 @@ public:
         if(head == nullptr) return head;
         while(head != nullptr && head -> val == val) head = head -> next;
         if(head == nullptr) return nullptr;
-        ListNode *p = head,*c = head -> next;
+        ListNode *p = new ListNode(-1),*c = head;
+        ListNode *a = p;
         while(c != nullptr)
         {
             if(c -> val != val)
@@ -15,6 +16,6 @@ public:
             c = c -> next;
         }
         p -> next = nullptr;
-        return head;
+        return a -> next;
     }
 };
