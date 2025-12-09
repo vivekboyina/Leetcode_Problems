@@ -18,7 +18,7 @@ public:
                     cnt = (cnt + ( (1LL * ma[i*2] * (mp[i*2] - ma[i*2])) % MOD )) % MOD;
             }
 
-            ma[i]++;
+            ma[i]+=1;
         }
 
         return (int)(cnt % MOD);
