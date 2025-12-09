@@ -4,7 +4,7 @@ public:
         unordered_map<int,int> mp, ma;
         const long long MOD = 1000000007;
 
-        for(int i : nums) mp[i]++;
+        for(int i : nums) mp[i]+=1;
 
         long long cnt = 0;
 
