@@ -1,5 +1,9 @@
 class Solution {
 public:
+    Solution() {
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+    }
     vector<vector<int>> levelOrder(Node* root) {
         vector<vector<int>>ans;
         if(root == nullptr) return ans;
