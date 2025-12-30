@@ -33,11 +33,7 @@ public:
         b = c;
         lr = l + r + 1;
         ab = a + b + (root -> val);
-        if(ab/lr == (root -> val))
-        {
-            cnt+=1;
-            cout << lr << " " << ab << " " << (root -> val) << endl;
-        }
+        if(ab/lr == (root -> val)) cnt+=1;
         answer(root -> left);
         answer(root -> right);
     }
