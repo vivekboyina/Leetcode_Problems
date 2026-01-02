@@ -14,7 +14,6 @@ public:
                     if(!st.empty() && st.top() == abs(ast[i])) st.pop();
                     else if(st.empty() || st.top() < 0) st.push(ast[i]);
                 }
-                cout << ast[i] << endl;
             }
             else st.push(ast[i]);
             i+=1;
