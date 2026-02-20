@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool ans;
+    bool ans = false;
     void check(TreeNode* root,TreeNode* sub)
     {
         if(!ans) return;
@@ -25,7 +25,7 @@ public:
         dfs(root -> right,sub);
     }
     bool isSubtree(TreeNode* root, TreeNode* sub) {
-        ans = false;
+        // ans = false;
         dfs(root,sub);
         return ans;
     }
