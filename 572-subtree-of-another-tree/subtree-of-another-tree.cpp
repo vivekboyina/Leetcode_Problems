@@ -25,7 +25,6 @@ public:
         dfs(root -> right,sub);
     }
     bool isSubtree(TreeNode* root, TreeNode* sub) {
-        // ans = false;
         dfs(root,sub);
         return ans;
     }
