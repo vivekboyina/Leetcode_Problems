@@ -10,18 +10,17 @@ public:
             n = q.size();
             for(int i = 1; i <= n; i++)
             {
-                TreeNode* t = q.front();
-                if(t -> left != nullptr)
+                if(q.front() -> left != nullptr)
                 {
-                    if(t -> left -> val == x) t1 = t;
-                    else if(t -> left -> val == y) t2 = t;
-                    q.push(t -> left);
+                    if(q.front() -> left -> val == x) t1 = q.front();
+                    else if(q.front() -> left -> val == y) t2 = q.front();
+                    q.push(q.front() -> left);
                 }
-                if(t -> right != nullptr)
+                if(q.front() -> right != nullptr)
                 {
-                    if(t -> right -> val == x) t1 = t;
-                    else if(t -> right -> val == y) t2 = t;
-                    q.push(t -> right);
+                    if(q.front() -> right -> val == x) t1 = q.front();
+                    else if(q.front() -> right -> val == y) t2 = q.front();
+                    q.push(q.front() -> right);
                 }
                 q.pop();
             }
