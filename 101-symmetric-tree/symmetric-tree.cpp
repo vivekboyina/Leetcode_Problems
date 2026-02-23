@@ -4,7 +4,6 @@ public:
     void dfs(TreeNode* a,TreeNode* b)
     {
         if(a == nullptr && b == nullptr) return;
-        if(ans == false) return;
         if(a == nullptr || b == nullptr || a -> val != b -> val)
         {
             ans = false;
