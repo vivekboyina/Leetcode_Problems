@@ -2,23 +2,22 @@ class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& mat) {
         vector<int>ans;
-        int m = mat.size(),n = mat[0].size();
-        int i = 0,j = n - 1,t = 0,b = m - 1;
-        while(i <= j && t <= b)
+        int l = 0,r = mat[0].size() - 1,t = 0,b = mat.size() - 1,i;
+        while(l <= r && t <= b)
         {
-            for(int k = i; k <= j; k++) ans.push_back(mat[t][k]);
+            for(i = l; i <= r; i++) ans.push_back(mat[t][i]);
             t++;
-            for(int k = t; k <= b; k++) ans.push_back(mat[k][j]);
-            j--;
+            for(i = t; i <= b; i++) ans.push_back(mat[i][r]);
+            r--;
             if(t <= b)
             {
-                for(int k = j; k >= i; k--) ans.push_back(mat[b][k]);
+                for(i = r; i >= l; i--) ans.push_back(mat[b][i]);
                 b--;
             }
-            if(i <= j)
+            if(l <= r)
             {
-                for(int k = b; k >= t; k--) ans.push_back(mat[k][i]);
-                i++;
+                for(i = b; i >= t; i--) ans.push_back(mat[i][l]);
+                l++;
             }
         }
         return ans;
