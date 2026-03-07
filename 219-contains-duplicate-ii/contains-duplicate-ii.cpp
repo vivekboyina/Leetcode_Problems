@@ -5,12 +5,8 @@ public:
         int l = 0;
         for(int r = 0; r < nums.size(); r++)
         {
-            if(mp.find(nums[r]) != mp.end())
-            {
-                if(r - mp[nums[r]] <= k) return true;
-                else mp[nums[r]] = r;
-            }
-            else mp[nums[r]] = r;
+            if(mp.find(nums[r]) != mp.end()) if(r - mp[nums[r]] <= k) return true;
+            mp[nums[r]] = r;
         }
         return false;
     }
