@@ -37,7 +37,7 @@ I try to solve problems regularly to improve consistency and thinking ability.
 
 ## 🔗 My LeetCode Profile
 
-https://leetcode.com/YOUR_USERNAME/
+[Link](https://leetcode.com/u/vivekboyina/)
 
 ---
 
