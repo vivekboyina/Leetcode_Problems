@@ -8,7 +8,8 @@ class Solution {
                 fb[i] = 1;
                 n-=1;
             }
+            if(n == 0) return true;
         }
-        return n <= 0;
+        return n == 0;
     }
 }
