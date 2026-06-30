@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 ## Sorting
 |  |
