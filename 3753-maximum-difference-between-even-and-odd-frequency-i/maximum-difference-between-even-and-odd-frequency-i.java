@@ -1,17 +1,18 @@
 class Solution {
     public int maxDifference(String s) {
-        HashMap<Character,Integer> hm = new HashMap<>();
+        int[] fr = new int[26];
         char c;
         for(int i = 0; i < s.length(); i++)
         {
             c = s.charAt(i);
-            hm.put(c,hm.getOrDefault(c,0) + 1);
+            fr[c - 'a']+=1;
         }
         int od = Integer.MIN_VALUE,ev = Integer.MAX_VALUE;
-        for(Map.Entry<Character,Integer> it : hm.entrySet())
+        for(int i : fr)
         {
-            if(it.getValue() % 2 == 0) ev = Math.min(ev,it.getValue());
-            else od = Math.max(od,it.getValue());
+            if(i == 0) continue;
+            if(i % 2 == 0) ev = Math.min(ev,i);
+            else if(i % 2 != 0) od = Math.max(od,i);
         }
         return od - ev;
     }
