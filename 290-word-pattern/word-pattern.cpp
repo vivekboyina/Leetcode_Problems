@@ -1,28 +1,20 @@
 class Solution {
 public:
     bool wordPattern(string ptrn, string s) {
-        unordered_map<string,char>mp;
-        vector<bool>ch(26,false);
-        int j = 0,n = s.length();
-        string k = "";
-        for(int i = 0; i < n; i++)
+        unordered_map<string,char>sc;
+        unordered_map<char,string>cs;
+        stringstream ss(s);
+        string wr;
+        int i = 0;
+        char c;
+        while(ss >> wr)
         {
-            if(s[i] == ' ' || i == n - 1)
-            {
-                if(i == n - 1) k+=s[i];
-                if(mp.find(k) == mp.end() && !ch[ptrn[j] - 'a'])
-                {
-                    ch[ptrn[j] - 'a'] = true;
-                    mp[k] = ptrn[j];
-                    j+=1;
-                }
-                else if(mp.find(k) != mp.end() && ch[ptrn[j] - 'a'] && mp[k] == ptrn[j]) j+=1;
-                else return false;
-                k = "";
-            }
-            else k+=s[i];
-            if(i < n - 1 && j >= ptrn.length()) return false;
+            if(i == ptrn.size()) return false;
+            c = ptrn[i++];
+            if((sc.count(wr) && sc[wr] != c) || (cs.count(c) && cs[c] != wr)) return false;
+            sc[wr] = c;
+            cs[c] = wr;
         }
-        return j == ptrn.length();
+        return i == ptrn.size();
     }
 };
