@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0724-find-pivot-index](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
