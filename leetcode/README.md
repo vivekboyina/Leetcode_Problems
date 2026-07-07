@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0036-valid-sudoku) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
