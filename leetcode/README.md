@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
