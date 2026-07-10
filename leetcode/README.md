@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0125-valid-palindrome) |
