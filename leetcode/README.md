@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
+| [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
