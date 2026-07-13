@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0205-isomorphic-strings) |
