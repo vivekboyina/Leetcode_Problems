@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
+| [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1212-sequential-digits) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
 <!---LeetCode Topics End-->
