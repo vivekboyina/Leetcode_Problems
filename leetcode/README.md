@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
+| [0898-transpose-matrix](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0036-valid-sudoku) |
+| [0898-transpose-matrix](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
