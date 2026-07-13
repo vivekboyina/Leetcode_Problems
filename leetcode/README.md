@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1212-sequential-digits) |
 <!---LeetCode Topics End-->
