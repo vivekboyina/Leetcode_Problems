@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0692-top-k-frequent-words) |
 | [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
+| [3859-maximum-product-of-two-digits](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+| [3859-maximum-product-of-two-digits](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
