@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0442-find-all-duplicates-in-an-array) |
 | [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0898-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
