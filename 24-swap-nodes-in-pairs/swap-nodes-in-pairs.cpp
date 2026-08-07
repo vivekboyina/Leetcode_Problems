@@ -1,18 +1,22 @@
 class Solution {
 public:
-    ListNode* swapPairs(ListNode* head) {
-        ListNode *c = head;
-        while(head != nullptr)
+    ListNode* rec(ListNode* head)
+    {
+        if(head == nullptr) return nullptr;
+        ListNode* nxt,*cur = head;
+        if(head -> next != nullptr)
         {
-            if(head -> next != nullptr)
-            {
-                int k = head -> val;
-                head -> val = head -> next -> val;
-                head -> next -> val = k;
-                head = head -> next -> next;
-            }
-            else head = head -> next;
+            nxt = head -> next -> next;
+            cur = head -> next;
+            head -> next = nxt;
+            cur -> next = head;
+            head = cur;
         }
-        return c;
+        if(head -> next != nullptr) head -> next -> next = rec(head -> next -> next);
+        return head;
+    }
+    ListNode* swapPairs(ListNode* head) {
+        head = rec(head);
+        return head;
     }
 };
