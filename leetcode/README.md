@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0917-boats-to-save-people) |
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -159,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0413-arithmetic-slices) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
