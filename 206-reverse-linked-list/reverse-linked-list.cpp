@@ -1,14 +1,21 @@
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* a = nullptr,*c = head,*p = nullptr;
-        while(c != nullptr)
+    ListNode* rec(ListNode* head)
+    {
+        if(head == nullptr) return head;
+        ListNode* tmp = new ListNode(head -> val);
+        ListNode* ans = rec(head -> next);
+        if(ans == nullptr) ans = tmp;
+        else
         {
-            p = c;
-            c = c -> next;
-            p -> next = a;
-            a = p;
+            ListNode* cur = ans;
+            while(cur -> next != nullptr) cur = cur -> next;
+            cur -> next = tmp;
         }
-        return a;
+        return ans;
+    }
+    ListNode* reverseList(ListNode* head) {
+        head = rec(head);
+        return head;
     }
 };
