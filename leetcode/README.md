@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 | [0817-design-hashmap](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0817-design-hashmap) |
 ## Design
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0413-arithmetic-slices) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vivekboyina/Leetcode_Problems/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
