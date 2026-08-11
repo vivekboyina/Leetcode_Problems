@@ -1,15 +1,20 @@
 class Solution {
 public:
-    int countPrimes(int n) {
-        vector<bool>pr(n + 1,true);
-        if(n <= 2) return 0;
-        pr[0] = pr[1] = false;
+    void sieve(int n,vector<bool>& prms)
+    {
         for(int i = 2; i*i < n; i++)
         {
-            if(pr[i] == true) for(int j = i*i; j < n; j+=i) pr[j] = false;
+            if(prms[i] == true) for(int j = i*i; j < n; j+=i) prms[j] = false;
         }
-        int cnt = 0;
-        for(int i = 0; i < n; i++) if(pr[i] == true) cnt+=1;
-        return cnt;
+    }
+    int countPrimes(int n) {
+        if(n < 2) return 0;
+        vector<bool>prms(n,true);
+        prms[0] = false;
+        prms[1] = false;
+        sieve(n,prms);
+        int ans = 0;
+        for(bool i : prms) if(i) ans++;
+        return ans;
     }
 };
